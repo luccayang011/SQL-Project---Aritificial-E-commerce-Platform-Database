@@ -440,7 +440,6 @@ INSERT INTO project.queries (VALUES(
 	(SELECT product_category_name_english, RANK()OVER(ORDER BY monetary DESC) AS rank FROM X) t1
 	WHERE rank <=10'));
 
---待插入的query
 
 UPDATE project.payments p 
 SET due_date = (
