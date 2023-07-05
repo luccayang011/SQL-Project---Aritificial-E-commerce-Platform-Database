@@ -1,6 +1,5 @@
 # SQL
-This contains my SQL coding samples.
+<p>This is a project I've done in Grad school Postgre SQL course. </p>
+<p>The .sql file contains the codes for creating tables, inserting data, building views/functions, and writing queries.</p>
 
-The project file is the project I have made during school. The procedure starts from creating tables, inserting data to writing queries and creating views/functions.
-
-The SQL notes contain the basic queries for my reference. 
+<a hred="">Data Source</a>
